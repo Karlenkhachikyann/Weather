@@ -1,0 +1,35 @@
+#root{
+}
+.weather{
+  width: 50%;
+  margin: 0 auto;
+  text-align: center
+}
+.weather-header{
+  font-family: 'Raleway', sans-serif;
+  color: saddlebrown;
+ 
+}
+.weather-input input{
+  border-radius: 14%; 
+}
+.weather-info{
+  font-family: 'Abel', sans-serif;
+  color:darkolivegreen;
+}
+button{
+color: chocolate;
+border-radius: 14%;
+margin: 0 0 0 5px;
+background-color:cornsilk;
+border-color: darkkhaki;
+}
+.error-message{
+  color: red;
+  font-weight: bolder;
+}
+.bold{
+  font-size: 16px;
+  font-weight: bolder;
+  color: darksalmon
+}
